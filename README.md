@@ -1,3 +1,7 @@
 # CSAPP-LAB
 
-WIP （先建个仓库提醒自己 LOL）
+- [x] data-lab	2022.3.19
+
+
+
+WIP
